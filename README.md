@@ -1,0 +1,1 @@
+# ASTM_GraspStrength
