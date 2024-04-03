@@ -1,33 +1,33 @@
 # Shells for ASTM Grasp Strength of Robotic Hands
 3D models of shells for standardized objects compatible with ATI-IA MINI45 and NANO17 force sensors.
 
-Instructions:
+Instructions:<br>
 Simply print the desired shells with your favorite 3d printing machine. Fine layers are recommended (0.1-0.2 mm). No support material required, see AllShells_3DPrinting.3mf
 
-NANO17 18mm Shell Assembly:
-Assemble all components, use 6 M2x5 socket head screws.
-![NANO17-Assembly01](Pictures/NANO17-Assembly01.jpg?raw=true "Title")
-Attach first half shell with 3 screws. DO NOT OVERTIGHTEN THE SCREWS! You can damage the force sensors if excessive torque is applied.
-![NANO17-Assembly02](Pictures/NANO17-Assembly02.jpg?raw=true "Title")
-Attach second half shell with 3 screws. AGAIN DO NOT OVERTIGHTEN THE SCREWS!
-![NANO17-Assembly03](Pictures/NANO17-Assembly03.jpg?raw=true "Title")
-Finished!
+NANO17 18mm Shell Assembly:<br>
+Assemble all components, use 6 M2x5 socket head screws.<br>
+![NANO17-Assembly01](Pictures/NANO17_Assembly01.jpg?raw=true "Title")<br>
+Attach first half shell with 3 screws. DO NOT OVERTIGHTEN THE SCREWS! You can damage the force sensors if excessive torque is applied.<br>
+![NANO17-Assembly02](Pictures/NANO17_Assembly02.jpg?raw=true "Title")<br>
+Attach second half shell with 3 screws. AGAIN DO NOT OVERTIGHTEN THE SCREWS!<br>
+![NANO17-Assembly03](Pictures/NANO17_Assembly03.jpg?raw=true "Title")<br>
+Finished!<br>
 
-MINI45 52mm Shell Assembly:
-Assemble all components, use 12 M3x8 socket head screws.
-
-
+MINI45 52mm Shell Assembly:<br>
+Assemble all components, use 12 M3x8 socket head screws.<br>
 
 
 
 
-Required:
-M2x5 socket head screws: https://www.mcmaster.com/91292A005/
+
+
+Required:<br>
+M2x5 socket head screws: https://www.mcmaster.com/91292A005/<br>
 M3x8 socket head screws: https://www.mcmaster.com/91292A112/
 
-Optional:
-Schedule 40 PVC pipe 2-3/8" diameter: https://www.mcmaster.com/49035K48/
-Schedule 40 PVC pipe 3-1/2" diameter: https://www.mcmaster.com/49035K49/
+Optional:<br>
+Schedule 40 PVC pipe 2-3/8" diameter: https://www.mcmaster.com/49035K48/<br>
+Schedule 40 PVC pipe 3-1/2" diameter: https://www.mcmaster.com/49035K49/<br>
 one roll of clear scotch tape 
 
 ###  DISCLAIMER:
