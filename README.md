@@ -10,7 +10,7 @@ Assemble all components, use 6 M2x5 socket head screws.<br>
 Attach first half shell with 3 screws. $${\color{red}DO\ NOT\ OVERTIGHTEN\ THE\ SCREWS}$$
 You can damage the force sensors if excessive torque is applied.<br>
 <img src="Pictures/NANO17_Assembly02.jpg" width="500"><br>
-Attach second half shell with 3 screws. AGAIN DO NOT OVERTIGHTEN THE SCREWS!<br>
+Attach second half shell with 3 screws. $${\color{red}AGAIN:\ DO\ NOT\ OVERTIGHTEN\ THE\ SCREWS}$$ <br>
 <img src="Pictures/NANO17_Assembly03.jpg" width="500"><br>
 Finished!<br>
 
