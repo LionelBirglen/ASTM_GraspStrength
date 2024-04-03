@@ -19,8 +19,8 @@ Assemble all components, use 12 M3x8 socket head screws.<br>
 <img src="Pictures/MINI45_Assembly01.jpg" width="500"><br>
 Attach first half shell with 3 screws. <span style="color:red">**DO NOT OVERTIGHTEN THE SCREWS!**</span>
 You can damage the force sensors if excessive torque is applied.<br>
-<img src="Pictures/MINI45_Assembly02.jpg" width="500"><br>
-<img src="Pictures/MINI45_Assembly03.jpg" width="500"><br>
+<img src="Pictures/MINI45_Assembly02.jpg" width="300">
+<img src="Pictures/MINI45_Assembly03.jpg" width="300"><br>
 Attach second half shell with 3 screws. <span style="color:red">**AGAIN DO NOT OVERTIGHTEN THE SCREWS!**</span><br>
 <img src="Pictures/MINI45_Assembly04.jpg" width="500"><br>
 Finished!<br>
