@@ -32,9 +32,8 @@ Cut the PVC pipe to the same length as the shells () and then, split the pipe in
 <img src="Pictures/MINI45_Assembly07.jpg" width="500"><br>
 If needed, secure both pvc covers with scotch tape.<br>
 <img src="Pictures/MINI45_Assembly08.jpg" width="500"><br>
-<br>
-<br>
-Required Hardware:<br>
+
+### Required Hardware:<br>
 M2x5 socket head screws: https://www.mcmaster.com/91292A005/<br>
 M3x8 socket head screws: https://www.mcmaster.com/91292A112/
 
