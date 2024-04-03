@@ -30,7 +30,7 @@ Finished!<br>
 <img src="Pictures/MINI45_Assembly05.jpg" width="500"><br>
 
 ### Optional: MINI45 52mm PVC Pipe Addition:
-Cut the PVC pipe to the same length as the shells () and then, split the pipe in half. Then, snap each half over the 3d printed shells:
+Cut the PVC pipe to the same length as the shells () and then, split the pipe in half. Then, snap each half over the 3d printed shells:<br>
 <img src="Pictures/MINI45_Assembly06.jpg" width="500"><br>
 <img src="Pictures/MINI45_Assembly07.jpg" width="500"><br>
 If needed, secure both pvc covers with scotch tape.<br>
