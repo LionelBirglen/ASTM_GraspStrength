@@ -1,5 +1,7 @@
-# Shells for ASTM Grasp Strength of Robotic Hands
-3D models of shells for standardized objects compatible with ATI-IA MINI45 and NANO17 force sensors.<br>
+# Shells for ASTM Grasp Strength Performance Evaluation of Robotic Hands
+3D models of shells for standardized objects compatible with ATI-IA MINI45 and NANO17 force sensors. See:
+https://www.astm.org/workitem-wk83863<br>
+https://www.nist.gov/el/intelligent-systems-division-73500/robotic-grasping-and-manipulation-assembly/grasping<br>
 
 Grasp Example (picture by Xiaowei Shan):<br>
 <img src="Pictures/GraspExample.jpg" width="500"><br>
