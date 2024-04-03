@@ -6,7 +6,7 @@ Simply print the desired shells with your favorite 3d printing machine. Fine lay
 
 NANO17 18mm Shell Assembly:<br>
 Assemble all components, use 6 M2x5 socket head screws.<br>
-![NANO17-Assembly01](Pictures/NANO17_Assembly01.jpg?raw=true "Title"| width=300)<br>
+<img src="Pictures/NANO17_Assembly01.jpg" width="300">
 Attach first half shell with 3 screws. DO NOT OVERTIGHTEN THE SCREWS! You can damage the force sensors if excessive torque is applied.<br>
 ![NANO17-Assembly02](Pictures/NANO17_Assembly02.jpg?raw=true "Title")<br>
 Attach second half shell with 3 screws. AGAIN DO NOT OVERTIGHTEN THE SCREWS!<br>
