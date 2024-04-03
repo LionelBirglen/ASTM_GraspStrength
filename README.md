@@ -1,8 +1,8 @@
 # Shells for ASTM Grasp Strength of Robotic Hands
 3D models of shells for standardized objects compatible with ATI-IA MINI45 and NANO17 force sensors.<br>
 
-Grasp Example (picture by Xiaowei Shan):
-<img src="Pictures/GraspExample.jpg" width="500"><br>
+Grasp Example (picture by Xiaowei Shan):<br>
+<img src="Pictures/GraspExample.jpg" width="300"><br>
 
 ### Instructions:<br>
 Simply print the desired shells with your favorite 3d printing machine. Fine layers are recommended (0.1-0.2 mm). No support material required, see AllShells_3DPrinting.3mf
